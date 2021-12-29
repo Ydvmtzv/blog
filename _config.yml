@@ -1,4 +1,4 @@
-title: Leaf Blog
+title: 0xff
 iconURL: assets/default-icon.png
 theme: jekyll-theme-hacker
 
@@ -6,8 +6,8 @@ theme: jekyll-theme-hacker
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: 
+  github: Ydvmtzv
 
 plugins:
  - jekyll-feed
